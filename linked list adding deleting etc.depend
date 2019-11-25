@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1570806839 source:e:\haris data strucutures and algorithims\my practice\linked list adding deleting etc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+	<string.h>
+
